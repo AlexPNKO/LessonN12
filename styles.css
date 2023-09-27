@@ -28,7 +28,7 @@ a {
 .translation {
   color: grey;
 } */
-/* ---lesson-task-2--- */
+/* ---lesson-task-2---
 html {
   font-family: Verdana;
 }
@@ -46,10 +46,9 @@ div {
   background-color: coral;
   color: white;
   text-transform: uppercase;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   line-height: 200px;
-}
+} */
 /* ---lesson-task-3--- 
 .list {
   list-style: none;
@@ -66,4 +65,3 @@ li {
 .first {
   text-decoration: overline red;
 } */
-/* ---lesson-task-4--- */

@@ -1,0 +1,30 @@
+/* ---lesson-task-1---
+section {
+  margin: 32px;
+}
+html {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  word-spacing: 20px;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+}
+p {
+  line-height: 28px;
+}
+.technology {
+  font-weight: 900;
+  letter-spacing: 3px;
+  font-size: 24px;
+  opacity: 80%;
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+}
+.translation {
+  color: grey;
+} */
